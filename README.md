@@ -35,9 +35,6 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
       <a href="#project-1">Project 1: Calendar Convertor</a>
@@ -67,18 +64,6 @@ There are many ways to enhance your Python Knowledge, but to the best of my know
 
 
 
-### Built With
-
-This section lists the major frameworks/libraries that can be used to bootstrap your project. 
-
-* [![Python][Python]][Python-url]
-* [![Jupyter Notebooks][Jupyter Notebooks]][JupyterNotebooks-url]
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- PROJECTS -->
 ## Project 1: Calendar Convertor
 
@@ -89,7 +74,7 @@ To all my fellow Iranian friends, this simple project is made specifically for y
 
 * After you finish writing the library, put it on https://pypi.org/ so that it can be installed with ```pip install your_calendar_lib``` 
 
-* Be sure about exception handling in your code! (empty input, input with different datatype, zero division, different number of input argument, ...) 
+* Be sure about exception handling in your code! (empty input, input with different datatype, zero division, different number of input argument, etc.) 
 
 *How to name your library:*
 
