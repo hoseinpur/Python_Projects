@@ -9,10 +9,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="Images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Python Projects</h3>
 
   <p align="center">
     easy to advanced Python project ideas to jumpstart your Python journey!
@@ -224,6 +224,6 @@ Project Link: [Python Projects](https://github.com/hoseinpur/Python_Projects)
 [stars-url]: https://github.com/hoseinpur/Python_Projects/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/hoseinpur/Python_Projects/issues
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: Images/screenshot.png
 [Python-url]: https://www.python.org/downloads/
 [JupyterNotebooks-url]: https://jupyter.org/install
