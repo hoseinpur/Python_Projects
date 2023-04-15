@@ -4,7 +4,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -12,19 +11,19 @@
     <img src="Images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Python Projects</h3>
+  <h3 align="center">Python Projects 🐍</h3>
 
   <p align="center">
     easy to advanced Python project ideas to jumpstart your Python journey!
     <br />
-    <a href="https://github.com/users/hoseinpur/projects/"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/hoseinpur/Python_Projects"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/users/hoseinpur/projects/1">View Demo</a>
+    <a href="https://github.com/hoseinpur/Python_Projects">View Demo</a>
     ·
-    <a href="https://github.com/users/hoseinpur/projects/issues">Report Bug</a>
+    <a href="https://github.com/hoseinpur/Python_Projects/issues">Report Bug</a>
     ·
-    <a href="https://github.com/users/hoseinpur/projects/issues">Request Feature</a>
+    <a href="https://github.com/hoseinpur/Python_Projects/issues">Request Feature</a>
   </p>
 </div>
 
@@ -124,7 +123,7 @@ your_calendar_lib.hijri(1444, 08, 07).hijri_to_gregorian() out: (2023,02 ,28 ) #
 
 ### 2. Converting Gregorian date to Hijri date
 
-````
+```
 your_calendar_lib.gregorian(Year, Month, day).gregorian_to_hijri()
 
 ```
