@@ -43,7 +43,7 @@
         <li><a href="#example2">2. Converting Gregorian date to Hijri date</a></li>
         <li><a href="#example3">3. Converting Jalali date to Hijri date</a></li>
       </ul>
-     <a href="#project-2">Project 2: IMDB Telegram Bot</a>
+    <a href="#project-2">Project 2: IMDB Telegram Bot</a>
     </li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
