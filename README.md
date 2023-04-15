@@ -1,3 +1,5 @@
+<a name="readme-top"></a>
+
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -58,7 +60,7 @@
 
 There are many ways to enhance your Python Knowledge, but to the best of my knowledge, doing random Python projects can push you to learn new topics and use the knowledge you have acquired before. I suggest two projects for starting with, according to your own Python knowledge they can be easy or advanced for you. However, to those who have an intermediate Python skills, one project is easy and another one advanced.
 
-* The list of projects and README will be updated accordingly. 
+_The list of projects and README will be updated accordingly._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -200,13 +202,13 @@ Project Link: [Python Projects](https://github.com/hoseinpur/Python_Projects)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/hoseinpur/Python_Projects/network/dependencies
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/hoseinpur/Python_Projects/network/dependencies
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/badge/CONTRIBUTORS-0-brightgreen
+[contributors-url]: https://github.com/hoseinpur/Python_Projects/graphs/contributors
+[forks-shield]: https://img.shields.io/badge/FORKS-0-informational
+[forks-url]: https://github.com/hoseinpur/Python_Projects/network/members
+[stars-shield]: https://img.shields.io/badge/STARS-0-blue
 [stars-url]: https://github.com/hoseinpur/Python_Projects/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/badge/ISSUES-0-yellow
 [issues-url]: https://github.com/hoseinpur/Python_Projects/issues
 [product-screenshot]: Images/screenshot.png
 [Python-url]: https://www.python.org/downloads/
