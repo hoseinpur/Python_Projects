@@ -146,9 +146,9 @@ For this project, you need to create a Telegram bot for searching Movies in the 
 
 *The bot should have these Steps when you start it:*
 
-- [ ] start
+- [ ] Start
 - [ ] Search a phrase  
-- [ ] show the list of movies, based on your search
+- [ ] Show the list of movies, based on your search
 - [ ] Select the desired movie 
 - [ ] Show the selected movies information
     - [ ] English
