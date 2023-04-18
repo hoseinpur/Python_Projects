@@ -190,7 +190,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Soho - [@soho.code](https://instagram.com/soho.codes) - soho.codes@gmail.com
+Soho - [@soho.codes](https://instagram.com/soho.codes) - soho.codes@gmail.com
 
 Project Link: [Python Projects](https://github.com/hoseinpur/Python_Projects)
 
